@@ -1,0 +1,72 @@
+﻿@model IEnumerable<TripAdvertisement.Models.Locations>
+@using TripAdvertisement.Models;
+
+
+<table class="table">
+    <tr class="btn-info">
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ImageLink)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Area)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Country)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.City)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AverageTime)
+        </th>
+    </tr>
+
+   
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @*@Html.DisplayFor(modelItem => item.ImageLink)*@
+            @Html.Image(@Url.Content(@item.ImageLink), "Location principle Image", "150", "200")
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Area)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Country)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.City)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AverageTime)
+        </td>
+     
+    </tr>
+}
+
+</table>
+@if (Model.Count() == 0)
+{
+    <div class="alert alert-warning">
+        No result Found for the current search
+    </div>
+}

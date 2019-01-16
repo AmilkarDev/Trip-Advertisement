@@ -1,0 +1,84 @@
+﻿@model TripAdvertisement.Models.Tags
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Tags</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InterestCount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InterestCount)
+        </dd>
+
+    </dl>
+</div>
+
+
+<h2>List of Locations for this Tag</h2>
+@if (ViewBag.Locations.Count == 0)
+{
+    <hr />
+    <p>No Locations found for this user.</p>
+}
+<table class="table">
+    <tr>
+        <th>
+           Name
+        </th>
+        <th>
+           Description
+        </th>
+        <th>
+            Country
+        </th>
+        <th>
+            City
+        </th>
+        <th>
+            Average Time
+        </th>
+    </tr>
+    @foreach (var item in ViewBag.Locations)
+    {
+        <tr>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Description
+            </td>
+            <td>
+                @item.Country
+            </td>
+            <td>
+                @item.City
+            </td>
+            <td>
+                @item.AverageTime
+            </td>
+        </tr>
+    }
+</table>
+
+
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

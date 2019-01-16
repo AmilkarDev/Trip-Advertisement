@@ -1,0 +1,2 @@
+## what's trip advertisement
+a simple asp mvc web application that's not fully developed yet , it aims to help travelers make decision about their future destination , also reviewing places they already visit , and if they are visiting new places they may use our app to fin nearest coffeshops or gas stations for example .

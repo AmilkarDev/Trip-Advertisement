@@ -1,0 +1,176 @@
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.csprojResolveAssemblyReference.cache
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.AppMigrations.Initial.resources
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.InitialCreate.resources
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.Initial.resources
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.RoleViewModel.resources
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.updateEditUserViewModel.resources
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.updateForeignKeys.resources
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.manipForeignKeys.resources
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.Initial1.resources
+C:\Users\Malek\Documents\Visual Studio 2013\Projects\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.csproj.GenerateResource.Cache
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\TripAdvertisement.dll.config
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\TripAdvertisement.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\TripAdvertisement.pdb
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Antlr3.Runtime.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\EntityFramework.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\EntityFramework.SqlServer.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Newtonsoft.Json.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Owin.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\PagedList.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\PagedList.Mvc.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\SendGrid.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\SendGrid.SmtpApi.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.Helpers.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.Mvc.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.Optimization.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.Razor.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\WebGrease.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Antlr3.Runtime.pdb
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\EntityFramework.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\EntityFramework.SqlServer.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Newtonsoft.Json.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\PagedList.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\PagedList.Mvc.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\SendGrid.pdb
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\SendGrid.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\SendGrid.SmtpApi.pdb
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\SendGrid.SmtpApi.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.Helpers.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.Mvc.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.Optimization.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.Razor.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.AppMigrations.Initial.resources
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.AppMigrations.usersTOcustomers.resources
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.AppMigrations.AddPreferences.resources
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.InitialCreate.resources
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.Initial.resources
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.RoleViewModel.resources
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.updateEditUserViewModel.resources
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.updateForeignKeys.resources
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.manipForeignKeys.resources
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.Initial1.resources
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.Initial11.resources
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.csproj.GenerateResource.Cache
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.pdb
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\HtmlAgilityPack.dll
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\HtmlAgilityPack.pdb
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\bin\HtmlAgilityPack.xml
+C:\Users\Malek\Desktop\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.csprojResolveAssemblyReference.cache
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\TripAdvertisement.dll.config
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\TripAdvertisement.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\TripAdvertisement.pdb
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Antlr3.Runtime.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\EntityFramework.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\EntityFramework.SqlServer.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\HtmlAgilityPack.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Newtonsoft.Json.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Owin.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\PagedList.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\PagedList.Mvc.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\SendGrid.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\SendGrid.SmtpApi.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.Helpers.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.Mvc.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.Optimization.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.Razor.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\WebGrease.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Antlr3.Runtime.pdb
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\EntityFramework.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\EntityFramework.SqlServer.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\HtmlAgilityPack.pdb
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\HtmlAgilityPack.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Newtonsoft.Json.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\PagedList.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\PagedList.Mvc.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\SendGrid.pdb
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\SendGrid.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\SendGrid.SmtpApi.pdb
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\SendGrid.SmtpApi.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.Helpers.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.Mvc.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.Optimization.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.Razor.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.AppMigrations.Initial.resources
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.AppMigrations.usersTOcustomers.resources
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.AppMigrations.AddPreferences.resources
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.InitialCreate.resources
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.Initial.resources
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.RoleViewModel.resources
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.updateEditUserViewModel.resources
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.updateForeignKeys.resources
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.manipForeignKeys.resources
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.Initial1.resources
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.DAL.IdentityMigrations.Initial11.resources
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.csproj.GenerateResource.cache
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.csproj.CoreCompileInputs.cache
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.csproj.CopyComplete
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.dll
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.pdb
+C:\Users\Malek\Desktop\Nouveau dossier\TripAdvertisement\TripAdvertisement\obj\Debug\TripAdvertisement.csprojAssemblyReference.cache

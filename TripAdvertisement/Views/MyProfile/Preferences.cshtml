@@ -1,0 +1,30 @@
+﻿
+<h2 class="well">Manage Preferences</h2>
+
+@if (ViewBag.prefs.Count == 0)
+{
+
+    <p>No preferences found for this user.</p>
+}
+<table class="table">
+    <tr class="btn-info">
+        <th>Country</th>
+        <th>City</th>
+        <th>Tag</th>
+    </tr>
+    @foreach (var item in ViewBag.prefs)
+    {
+        <tr>
+            <td>
+                @item.Country
+            </td>
+            <td>
+                @item.city
+            </td>
+            <td>
+                @item.Tag
+            </td>
+        </tr>
+    }
+
+</table>

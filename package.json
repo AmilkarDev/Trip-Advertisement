@@ -1,0 +1,27 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "hello",
+  "dependencies": {
+    "blueimp-canvas-to-blob": "^3.14.0",
+    "blueimp-file-upload": "^9.19.1",
+    "blueimp-gallery": "^2.27.0",
+    "blueimp-load-image": "^2.17.0",
+    "blueimp-tmpl": "^3.11.0",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hello"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "malek",
+  "license": "ISC"
+}

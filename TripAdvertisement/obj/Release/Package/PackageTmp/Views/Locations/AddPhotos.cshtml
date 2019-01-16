@@ -1,0 +1,38 @@
+﻿@model TripAdvertisement.Models.Images
+@using TripAdvertisement.Models
+@{
+    ViewBag.Title = "AddPhotos";
+    Layout = "~/Views/Shared/layout.cshtml";
+}
+
+<h2>Manage Location's Photos</h2>
+@Html.ActionLink("Show All Photos", "ShowPhotos") | 
+@Html.ActionLink("Upload New Photo","AddPhotos") @*|
+@Html.ActionLink("Delete a Photo","DeletePhotos")*@
+
+
+@using (Html.BeginForm("AddPhotos", "Locations", null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Add new Photo</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Link, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*@Html.EditorFor(model => model.ImageLink, new { htmlAttributes = new { @class = "form-control" } })*@
+                <input type="file" id="Photo" name="upload" />
+                @Html.ValidationMessageFor(model => model.Link, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}

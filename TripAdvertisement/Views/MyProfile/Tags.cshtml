@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Tags";
+    Layout = "";
+}
+<h2 class="well">Manage Tags</h2>
+
+    @if (ViewBag.tags.Count == 0)
+    {
+        
+        <p>No Tags found for this user.</p>
+    }
+<table class="table">
+    <tr class="btn-info">
+        <th>
+            Name
+        </th>
+    </tr>
+    @foreach (var item in ViewBag.tags)
+    {
+        <tr>
+            <td>
+                @item
+            </td>
+        </tr>
+    }
+
+</table>
